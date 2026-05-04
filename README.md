@@ -84,6 +84,3 @@ npm run dev
 
 ![登录页](docs/screenshots/login.png)
 
-## 许可证
-
-若未另行声明，按项目所有者约定使用。
